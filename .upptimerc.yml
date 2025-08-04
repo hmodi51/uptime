@@ -5,6 +5,7 @@ workflow-config:
   permissions:
     contents: write
     actions: write
+    checks: write
 
 sites:
   - name: justharsh
