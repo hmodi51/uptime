@@ -16,6 +16,8 @@ sites:
     url: $VPN_ENDPOINT
   - name: slope game
     url: https://slope.justharsh.xyz
+  - name: temp
+    url: https://temp.justharsh.xyz
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
