@@ -40,18 +40,20 @@
     "url": "$VPN_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 166,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 166,
-    "dailyMinutesDown": {}
+    "time": 180,
+    "timeDay": 180,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 180,
+    "dailyMinutesDown": {
+      "2025-08-07": 0
+    }
   },
   {
     "name": "slope game",
@@ -77,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/temp.justharsh.xyz.ico",
     "slug": "temp",
     "status": "down",
-    "uptime": "87.39%",
-    "uptimeDay": "87.52%",
-    "uptimeWeek": "87.39%",
-    "uptimeMonth": "87.39%",
-    "uptimeYear": "87.39%",
+    "uptime": "87.34%",
+    "uptimeDay": "87.39%",
+    "uptimeWeek": "87.34%",
+    "uptimeMonth": "87.34%",
+    "uptimeYear": "87.34%",
     "time": 224,
     "timeDay": 228,
     "timeWeek": 224,
     "timeMonth": 224,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-08-07": 180,
+      "2025-08-07": 182,
       "2025-08-04": 268
     }
   }
