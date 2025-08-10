@@ -11,7 +11,7 @@ sites:
   - name: justharsh
     url: https://justharsh.xyz
   - name: emacs
-    url: https://emacs.justharsh.xyz
+    url: https://harshitmodi.dev
   - name: vpn
     url: $VPN_ENDPOINT
   - name: slope game
