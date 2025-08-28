@@ -18,8 +18,6 @@ sites:
     url: https://slope.justharsh.xyz
   - name: temp
     url: https://temp.justharsh.xyz
-  - name: 261 server
-    url: https://cs261.cs.uic.edu/
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
