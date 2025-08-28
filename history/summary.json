@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 157,
-    "timeWeek": 161,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "time": 134,
+    "timeDay": 169,
+    "timeWeek": 165,
+    "timeMonth": 134,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 396,
-    "timeDay": 322,
-    "timeWeek": 461,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "time": 398,
+    "timeDay": 365,
+    "timeWeek": 460,
+    "timeMonth": 398,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2025-08-25": 14,
       "2025-08-12": 23
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 259,
-    "timeDay": 236,
-    "timeWeek": 417,
-    "timeMonth": 259,
-    "timeYear": 259,
+    "time": 258,
+    "timeDay": 228,
+    "timeWeek": 394,
+    "timeMonth": 258,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2025-08-12": 23,
       "2025-08-07": 2
@@ -71,8 +71,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 236,
-    "timeDay": 237,
-    "timeWeek": 361,
+    "timeDay": 239,
+    "timeWeek": 348,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
@@ -91,12 +91,12 @@
     "uptimeMonth": "9.24%",
     "uptimeYear": "9.24%",
     "time": 263,
-    "timeDay": 267,
-    "timeWeek": 421,
+    "timeDay": 266,
+    "timeWeek": 404,
     "timeMonth": 263,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2025-08-28": 206,
+      "2025-08-28": 212,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -119,26 +119,6 @@
       "2025-08-08": 1440,
       "2025-08-07": 1234,
       "2025-08-04": 268
-    }
-  },
-  {
-    "name": "261 server",
-    "url": "https://cs261.cs.uic.edu/",
-    "icon": "https://icons.duckduckgo.com/ip3/cs261.cs.uic.edu.ico",
-    "slug": "261-server",
-    "status": "down",
-    "uptime": "71.56%",
-    "uptimeDay": "71.56%",
-    "uptimeWeek": "71.56%",
-    "uptimeMonth": "71.56%",
-    "uptimeYear": "71.56%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-08-28": 0
     }
   }
 ]
