@@ -1,7 +1,7 @@
 url: $VPN_ENDPOINT
-status: down
-code: 502
-responseTime: 291
-lastUpdated: 2026-01-25T23:16:13.314Z
+status: up
+code: 200
+responseTime: 251
+lastUpdated: 2026-01-25T23:31:32.373Z
 startTime: 2025-08-04T16:16:45.145Z
 generator: Upptime <https://github.com/upptime/upptime>
