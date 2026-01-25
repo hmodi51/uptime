@@ -15,7 +15,7 @@ sites:
   - name: vpn
     url: $VPN_ENDPOINT
   - name: slope game
-    url: https://slope.justharsh.xyz
+    url: https://slope.harshitmodi.dev
   - name: temp
     url: https://temp.justharsh.xyz
   # - name: IPv6 test
