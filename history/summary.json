@@ -13,7 +13,7 @@
     "time": 161,
     "timeDay": 127,
     "timeWeek": 96,
-    "timeMonth": 134,
+    "timeMonth": 136,
     "timeYear": 161,
     "dailyMinutesDown": {}
   },
@@ -22,17 +22,17 @@
     "url": "https://harshitmodi.dev",
     "icon": "https://icons.duckduckgo.com/ip3/harshitmodi.dev.ico",
     "slug": "emacs",
-    "status": "up",
+    "status": "down",
     "uptime": "96.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.80%",
-    "time": 251,
-    "timeDay": 215,
-    "timeWeek": 181,
-    "timeMonth": 221,
-    "timeYear": 251,
+    "time": 250,
+    "timeDay": 140,
+    "timeWeek": 166,
+    "timeMonth": 217,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2025-08-12": 23,
       "2025-08-25": 14,
@@ -59,7 +59,8 @@
       "2025-12-07": 1440,
       "2025-12-06": 1440,
       "2025-12-05": 1091,
-      "2025-12-19": 66
+      "2025-12-19": 66,
+      "2026-07-22": 1
     }
   },
   {
@@ -67,17 +68,17 @@
     "url": "$VPN_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "85.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "85.73%",
-    "time": 242,
-    "timeDay": 261,
-    "timeWeek": 155,
-    "timeMonth": 217,
-    "timeYear": 242,
+    "time": 241,
+    "timeDay": 166,
+    "timeWeek": 144,
+    "timeMonth": 213,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2025-08-07": 2,
       "2025-08-12": 23,
@@ -146,7 +147,8 @@
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 200,
-      "2026-04-16": 47
+      "2026-04-16": 47,
+      "2026-07-22": 1
     }
   },
   {
@@ -154,17 +156,17 @@
     "url": "https://slope.harshitmodi.dev",
     "icon": "https://icons.duckduckgo.com/ip3/slope.harshitmodi.dev.ico",
     "slug": "slope-game",
-    "status": "up",
+    "status": "down",
     "uptime": "96.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.79%",
-    "time": 320,
-    "timeDay": 257,
-    "timeWeek": 146,
-    "timeMonth": 213,
-    "timeYear": 320,
+    "time": 319,
+    "timeDay": 164,
+    "timeWeek": 137,
+    "timeMonth": 207,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2025-08-12": 23,
       "2025-09-08": 39,
@@ -191,7 +193,8 @@
       "2025-12-06": 1440,
       "2025-12-05": 1091,
       "2025-12-19": 66,
-      "2026-01-25": 18
+      "2026-01-25": 18,
+      "2026-07-22": 1
     }
   },
   {
@@ -212,7 +215,7 @@
     "timeYear": 203,
     "dailyMinutesDown": {
       "2025-08-04": 268,
-      "2026-07-22": 165,
+      "2026-07-22": 405,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
